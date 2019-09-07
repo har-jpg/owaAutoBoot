@@ -1,5 +1,5 @@
-import pyautogui as pgui
+import pyautogui as p
 from time import sleep
-pgui.click(161,1070)
+p.click(161,1070)
 sleep(20)
-pgui.click(528,750)
+p.click(528,750)
